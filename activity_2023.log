@@ -27,3 +27,4 @@
 2023 Activity at 2023-01-09T09:16:56: Fix bug in loss function calculation
 2023 Activity at 2023-01-09T14:42:58: Improve model serialization and loading
 2023 Activity at 2023-01-09T16:17:55: Address code review feedback
+2023 Activity at 2023-01-09T19:31:47: Update README with new performance metrics
