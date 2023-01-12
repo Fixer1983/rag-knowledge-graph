@@ -30,3 +30,4 @@ Robust Activity at 2023-01-11T10:30:09: Improve model serialization and loading
 Robust Activity at 2023-01-11T17:57:43: Add unit tests for core modules
 Robust Activity at 2023-01-12T14:02:02: Benchmark inference latency across devices
 Robust Activity at 2023-01-12T18:09:15: Clean up unused variables and functions
+Robust Activity at 2023-01-12T12:36:52: Update README with new performance metrics
