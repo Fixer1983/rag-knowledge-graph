@@ -42,3 +42,4 @@
 2023 Activity at 2023-01-13T17:52:30: Update README with new performance metrics
 2023 Activity at 2023-01-13T17:03:44: Fix race condition in data pipeline
 2023 Activity at 2023-01-13T13:59:15: Improve model serialization and loading
+2023 Activity at 2023-01-13T10:49:09: Add support for transformer-based models
