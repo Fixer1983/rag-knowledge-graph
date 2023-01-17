@@ -48,3 +48,4 @@
 2023 Activity at 2023-01-13T10:16:06: Clean up unused variables and functions
 2023 Activity at 2023-01-17T14:50:21: Merge feature branch into main
 2023 Activity at 2023-01-17T12:51:53: Fix race condition in data pipeline
+2023 Activity at 2023-01-17T17:39:23: Add support for transformer-based models
