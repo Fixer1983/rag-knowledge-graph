@@ -67,3 +67,4 @@ Robust Activity at 2023-01-24T11:43:54: Fix bug in loss function calculation
 Robust Activity at 2023-01-24T16:33:42: Update README with new performance metrics
 Robust Activity at 2023-01-24T11:50:22: Implement early stopping in training loop
 Robust Activity at 2023-01-24T16:52:50: Optimize neural network architecture
+Robust Activity at 2023-01-24T11:57:20: Optimize GPU memory allocation
