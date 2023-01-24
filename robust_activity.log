@@ -64,3 +64,4 @@ Robust Activity at 2023-01-23T09:34:20: Add support for multi-GPU training
 Robust Activity at 2023-01-23T18:31:23: Improve documentation for API endpoints
 Robust Activity at 2023-01-24T17:59:33: Clean up unused variables and functions
 Robust Activity at 2023-01-24T11:43:54: Fix bug in loss function calculation
+Robust Activity at 2023-01-24T16:33:42: Update README with new performance metrics
