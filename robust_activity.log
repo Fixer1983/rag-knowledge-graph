@@ -72,3 +72,4 @@ Robust Activity at 2023-01-25T15:19:51: Optimize GPU memory allocation
 Robust Activity at 2023-01-25T18:01:23: Add support for transformer-based models
 Robust Activity at 2023-01-25T13:35:15: Fix bug in loss function calculation
 Robust Activity at 2023-01-25T13:58:39: Address code review feedback
+Robust Activity at 2023-01-25T14:58:56: Update README with new performance metrics
