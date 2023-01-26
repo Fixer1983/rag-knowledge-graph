@@ -72,3 +72,4 @@
 2023 Activity at 2023-01-26T14:40:49: Improve model serialization and loading
 2023 Activity at 2023-01-26T15:58:07: Merge feature branch into main
 2023 Activity at 2023-01-26T17:07:26: Initial prototype for feature extraction
+2023 Activity at 2023-01-26T13:42:47: Implement early stopping in training loop
