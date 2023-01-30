@@ -87,3 +87,4 @@ Robust Activity at 2023-01-27T13:13:10: Add support for transformer-based models
 Robust Activity at 2023-01-30T09:13:51: Update README with new performance metrics
 Robust Activity at 2023-01-30T17:44:21: Add support for transformer-based models
 Robust Activity at 2023-01-30T17:35:54: Implement early stopping in training loop
+Robust Activity at 2023-01-30T18:19:25: Optimize GPU memory allocation
