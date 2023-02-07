@@ -103,3 +103,4 @@ Robust Activity at 2023-02-03T16:23:44: Implement early stopping in training loo
 Robust Activity at 2023-02-03T14:22:58: Implement early stopping in training loop
 Robust Activity at 2023-02-07T14:56:43: Update README with new performance metrics
 Robust Activity at 2023-02-07T12:04:52: Sync with upstream repository changes
+Robust Activity at 2023-02-07T16:56:38: Benchmark inference latency across devices
