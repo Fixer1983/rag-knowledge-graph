@@ -119,3 +119,4 @@ Robust Activity at 2023-02-13T15:56:27: Add support for multi-GPU training
 Robust Activity at 2023-02-13T17:21:27: Enhance logging for debugging production issues
 Robust Activity at 2023-02-13T10:30:40: Benchmark inference latency across devices
 Robust Activity at 2023-02-14T14:28:03: Merge feature branch into main
+Robust Activity at 2023-02-14T10:48:27: Add unit tests for core modules
