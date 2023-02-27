@@ -179,3 +179,4 @@
 2023 Activity at 2023-02-24T13:32:49: Optimize GPU memory allocation
 2023 Activity at 2023-02-24T18:40:50: Refactor data loader for faster training
 2023 Activity at 2023-02-24T09:37:14: Initial prototype for feature extraction
+2023 Activity at 2023-02-27T17:00:36: Add unit tests for core modules
