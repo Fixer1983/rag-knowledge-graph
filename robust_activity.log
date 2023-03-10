@@ -160,3 +160,4 @@ Robust Activity at 2023-03-10T10:04:34: Fix race condition in data pipeline
 Robust Activity at 2023-03-10T17:29:35: Add support for transformer-based models
 Robust Activity at 2023-03-10T11:22:41: Address code review feedback
 Robust Activity at 2023-03-10T18:47:57: Initial prototype for feature extraction
+Robust Activity at 2023-03-10T14:59:31: Optimize GPU memory allocation
