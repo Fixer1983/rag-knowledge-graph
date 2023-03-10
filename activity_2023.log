@@ -227,3 +227,4 @@
 2023 Activity at 2023-03-10T12:50:33: Initial prototype for feature extraction
 2023 Activity at 2023-03-10T16:17:55: Improve model serialization and loading
 2023 Activity at 2023-03-10T18:31:16: Optimize GPU memory allocation
+2023 Activity at 2023-03-10T16:30:06: Clean up unused variables and functions
