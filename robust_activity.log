@@ -163,3 +163,4 @@ Robust Activity at 2023-03-10T18:47:57: Initial prototype for feature extraction
 Robust Activity at 2023-03-10T14:59:31: Optimize GPU memory allocation
 Robust Activity at 2023-03-10T09:16:59: Update dependencies to latest stable versions
 Robust Activity at 2023-03-13T15:59:30: Fix race condition in data pipeline
+Robust Activity at 2023-03-13T11:56:00: Clean up unused variables and functions
