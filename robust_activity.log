@@ -166,3 +166,4 @@ Robust Activity at 2023-03-13T15:59:30: Fix race condition in data pipeline
 Robust Activity at 2023-03-13T11:56:00: Clean up unused variables and functions
 Robust Activity at 2023-03-13T09:40:44: Initial prototype for feature extraction
 Robust Activity at 2023-03-14T17:20:04: Add support for multi-GPU training
+Robust Activity at 2023-03-14T17:03:41: Improve documentation for API endpoints
