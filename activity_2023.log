@@ -246,3 +246,4 @@
 2023 Activity at 2023-03-16T10:27:29: Benchmark inference latency across devices
 2023 Activity at 2023-03-16T19:26:24: Fix race condition in data pipeline
 2023 Activity at 2023-03-16T10:00:14: Update README with new performance metrics
+2023 Activity at 2023-03-16T15:21:37: Benchmark inference latency across devices
