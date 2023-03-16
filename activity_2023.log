@@ -243,3 +243,4 @@
 2023 Activity at 2023-03-16T12:55:13: Add support for transformer-based models
 2023 Activity at 2023-03-16T17:07:03: Optimize neural network architecture
 2023 Activity at 2023-03-16T17:13:14: Fix race condition in data pipeline
+2023 Activity at 2023-03-16T10:27:29: Benchmark inference latency across devices
