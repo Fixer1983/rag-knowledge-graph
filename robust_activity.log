@@ -180,3 +180,4 @@ Robust Activity at 2023-03-16T13:17:27: Clean up unused variables and functions
 Robust Activity at 2023-03-16T12:58:56: Refactor data loader for faster training
 Robust Activity at 2023-03-16T15:37:34: Add support for transformer-based models
 Robust Activity at 2023-03-17T11:49:17: Benchmark inference latency across devices
+Robust Activity at 2023-03-17T13:11:27: Merge feature branch into main
