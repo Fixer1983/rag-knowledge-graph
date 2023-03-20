@@ -261,3 +261,4 @@
 2023 Activity at 2023-03-20T11:53:46: Add unit tests for core modules
 2023 Activity at 2023-03-20T13:10:14: Add support for multi-GPU training
 2023 Activity at 2023-03-20T19:17:12: Implement early stopping in training loop
+2023 Activity at 2023-03-20T19:48:45: Optimize GPU memory allocation
