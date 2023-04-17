@@ -226,3 +226,4 @@ Robust Activity at 2023-04-14T10:04:27: Sync with upstream repository changes
 Robust Activity at 2023-04-14T12:18:23: Add unit tests for core modules
 Robust Activity at 2023-04-14T18:48:06: Improve model serialization and loading
 Robust Activity at 2023-04-17T13:19:51: Address code review feedback
+Robust Activity at 2023-04-17T15:41:27: Benchmark inference latency across devices
