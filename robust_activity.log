@@ -283,3 +283,4 @@ Robust Activity at 2023-05-18T17:07:24: Fix race condition in data pipeline
 Robust Activity at 2023-05-18T12:34:01: Add support for transformer-based models
 Robust Activity at 2023-05-23T12:41:57: Add support for multi-GPU training
 Robust Activity at 2023-05-23T13:08:53: Clean up unused variables and functions
+Robust Activity at 2023-05-23T16:42:55: Optimize GPU memory allocation
