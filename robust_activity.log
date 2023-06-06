@@ -306,3 +306,4 @@ Robust Activity at 2023-06-02T14:32:19: Merge feature branch into main
 Robust Activity at 2023-06-02T14:25:19: Improve documentation for API endpoints
 Robust Activity at 2023-06-06T12:36:58: Add support for multi-GPU training
 Robust Activity at 2023-06-06T18:45:17: Optimize GPU memory allocation
+Robust Activity at 2023-06-06T10:42:29: Add support for transformer-based models
