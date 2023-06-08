@@ -310,3 +310,4 @@ Robust Activity at 2023-06-06T10:42:29: Add support for transformer-based models
 Robust Activity at 2023-06-07T10:53:57: Add support for transformer-based models
 Robust Activity at 2023-06-07T11:25:43: Benchmark inference latency across devices
 Robust Activity at 2023-06-07T12:12:49: Fix bug in loss function calculation
+Robust Activity at 2023-06-08T12:39:34: Merge feature branch into main
