@@ -342,3 +342,4 @@ Robust Activity at 2023-06-19T11:22:53: Enhance logging for debugging production
 Robust Activity at 2023-06-19T11:10:16: Fix bug in loss function calculation
 Robust Activity at 2023-06-21T09:02:07: Clean up unused variables and functions
 Robust Activity at 2023-06-21T09:24:59: Add unit tests for core modules
+Robust Activity at 2023-06-23T16:53:43: Benchmark inference latency across devices
