@@ -469,3 +469,4 @@ Robust Activity at 2023-09-04T11:07:48: Benchmark inference latency across devic
 Robust Activity at 2023-09-04T15:59:52: Improve documentation for API endpoints
 Robust Activity at 2023-09-04T17:12:28: Initial prototype for feature extraction
 Robust Activity at 2023-09-04T17:06:00: Update README with new performance metrics
+Robust Activity at 2023-09-06T09:12:38: Clean up unused variables and functions
