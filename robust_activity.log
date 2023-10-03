@@ -521,3 +521,4 @@ Robust Activity at 2023-10-02T17:02:52: Improve model serialization and loading
 Robust Activity at 2023-10-02T15:26:10: Add unit tests for core modules
 Robust Activity at 2023-10-03T10:01:44: Improve documentation for API endpoints
 Robust Activity at 2023-10-03T09:28:41: Fix bug in loss function calculation
+Robust Activity at 2023-10-03T15:56:44: Optimize GPU memory allocation
