@@ -530,3 +530,4 @@ Robust Activity at 2023-10-06T18:06:45: Implement early stopping in training loo
 Robust Activity at 2023-10-06T18:16:12: Update dependencies to latest stable versions
 Robust Activity at 2023-10-06T14:26:50: Initial prototype for feature extraction
 Robust Activity at 2023-10-10T09:17:02: Refactor data loader for faster training
+Robust Activity at 2023-10-10T13:58:19: Add support for transformer-based models
