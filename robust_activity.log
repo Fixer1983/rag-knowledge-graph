@@ -550,3 +550,4 @@ Robust Activity at 2023-10-17T16:23:25: Initial prototype for feature extraction
 Robust Activity at 2023-10-17T12:12:21: Fix race condition in data pipeline
 Robust Activity at 2023-10-17T17:22:58: Fix bug in loss function calculation
 Robust Activity at 2023-10-17T15:52:28: Add support for transformer-based models
+Robust Activity at 2023-10-17T15:53:00: Benchmark inference latency across devices
