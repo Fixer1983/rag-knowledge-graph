@@ -555,3 +555,4 @@ Robust Activity at 2023-10-17T12:15:20: Improve model serialization and loading
 Robust Activity at 2023-10-19T17:11:23: Update README with new performance metrics
 Robust Activity at 2023-10-19T18:24:20: Fix race condition in data pipeline
 Robust Activity at 2023-10-20T18:33:42: Optimize neural network architecture
+Robust Activity at 2023-10-20T15:28:59: Add support for transformer-based models
