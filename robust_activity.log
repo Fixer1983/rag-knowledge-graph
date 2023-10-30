@@ -566,3 +566,4 @@ Robust Activity at 2023-10-25T09:47:22: Refactor data loader for faster training
 Robust Activity at 2023-10-26T14:09:26: Benchmark inference latency across devices
 Robust Activity at 2023-10-26T10:18:33: Refactor data loader for faster training
 Robust Activity at 2023-10-30T09:09:02: Optimize GPU memory allocation
+Robust Activity at 2023-10-30T13:24:55: Add support for transformer-based models
