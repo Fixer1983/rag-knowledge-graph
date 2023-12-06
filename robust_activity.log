@@ -619,3 +619,4 @@ Robust Activity at 2023-12-04T14:28:59: Optimize GPU memory allocation
 Robust Activity at 2023-12-04T16:46:45: Benchmark inference latency across devices
 Robust Activity at 2023-12-04T11:06:35: Improve model serialization and loading
 Robust Activity at 2023-12-04T12:27:29: Fix bug in loss function calculation
+Robust Activity at 2023-12-06T09:56:57: Clean up unused variables and functions
