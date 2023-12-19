@@ -641,3 +641,4 @@ Robust Activity at 2023-12-18T11:01:40: Update README with new performance metri
 Robust Activity at 2023-12-18T13:42:09: Add unit tests for core modules
 Robust Activity at 2023-12-19T11:08:51: Initial prototype for feature extraction
 Robust Activity at 2023-12-19T10:53:06: Merge feature branch into main
+Robust Activity at 2023-12-19T16:21:52: Optimize GPU memory allocation
