@@ -643,3 +643,4 @@ Robust Activity at 2023-12-19T11:08:51: Initial prototype for feature extraction
 Robust Activity at 2023-12-19T10:53:06: Merge feature branch into main
 Robust Activity at 2023-12-19T16:21:52: Optimize GPU memory allocation
 Robust Activity at 2023-12-20T15:31:34: Clean up unused variables and functions
+Robust Activity at 2023-12-20T17:04:24: Fix bug in loss function calculation
