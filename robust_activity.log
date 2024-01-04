@@ -657,3 +657,4 @@ Robust Activity at 2024-01-03T10:37:07: Initial prototype for feature extraction
 Robust Activity at 2024-01-03T11:57:37: Fix race condition in data pipeline
 Robust Activity at 2024-01-04T16:52:28: Improve model serialization and loading
 Robust Activity at 2024-01-04T10:02:06: Fix bug in loss function calculation
+Robust Activity at 2024-01-04T11:21:07: Benchmark inference latency across devices
