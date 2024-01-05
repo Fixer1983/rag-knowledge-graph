@@ -20,3 +20,4 @@
 2024 Activity at 2024-01-05T12:37:04: Clean up unused variables and deprecated functions
 2024 Activity at 2024-01-05T16:18:02: Improve documentation for REST API endpoints
 2024 Activity at 2024-01-05T18:32:16: Update README with latest performance benchmarks
+2024 Activity at 2024-01-05T17:12:02: Add support for multi-GPU training via DDP
