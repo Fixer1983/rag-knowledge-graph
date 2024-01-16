@@ -42,3 +42,4 @@
 2024 Activity at 2024-01-11T14:24:52: Refactor data loading pipeline for higher throughput
 2024 Activity at 2024-01-11T10:30:37: Add support for transformer-based models in inference
 2024 Activity at 2024-01-16T09:42:50: Address code review feedback from the senior team
+2024 Activity at 2024-01-16T13:45:24: Add comprehensive unit tests for core ML modules
