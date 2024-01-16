@@ -43,3 +43,4 @@
 2024 Activity at 2024-01-11T10:30:37: Add support for transformer-based models in inference
 2024 Activity at 2024-01-16T09:42:50: Address code review feedback from the senior team
 2024 Activity at 2024-01-16T13:45:24: Add comprehensive unit tests for core ML modules
+2024 Activity at 2024-01-16T15:42:17: Clean up unused variables and deprecated functions
