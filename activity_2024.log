@@ -59,3 +59,4 @@
 2024 Activity at 2024-01-22T11:33:57: Add support for multi-GPU training via DDP
 2024 Activity at 2024-01-24T13:36:38: Clean up unused variables and deprecated functions
 2024 Activity at 2024-01-24T19:31:04: Clean up unused variables and deprecated functions
+2024 Activity at 2024-01-24T12:11:11: Fix bug in loss function calculation for edge cases
