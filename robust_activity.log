@@ -713,3 +713,4 @@ Robust Activity at 2024-02-05T11:58:33: Improve documentation for API endpoints
 Robust Activity at 2024-02-05T16:53:25: Implement early stopping in training loop
 Robust Activity at 2024-02-05T09:43:44: Update dependencies to latest stable versions
 Robust Activity at 2024-02-05T10:23:46: Address code review feedback
+Robust Activity at 2024-02-06T11:32:25: Add unit tests for core modules
