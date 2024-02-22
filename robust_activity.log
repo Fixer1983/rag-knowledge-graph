@@ -752,3 +752,4 @@ Robust Activity at 2024-02-21T09:58:51: Add unit tests for core modules
 Robust Activity at 2024-02-21T18:13:48: Improve model serialization and loading
 Robust Activity at 2024-02-21T16:03:48: Fix race condition in data pipeline
 Robust Activity at 2024-02-22T10:03:57: Initial prototype for feature extraction
+Robust Activity at 2024-02-22T15:40:27: Benchmark inference latency across devices
