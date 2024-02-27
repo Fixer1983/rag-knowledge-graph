@@ -127,3 +127,4 @@
 2024 Activity at 2024-02-26T10:41:28: Add support for transformer-based models in inference
 2024 Activity at 2024-02-27T15:07:29: Sync with upstream repository changes and updates
 2024 Activity at 2024-02-27T11:41:43: Clean up unused variables and deprecated functions
+2024 Activity at 2024-02-27T11:54:09: Add comprehensive unit tests for core ML modules
