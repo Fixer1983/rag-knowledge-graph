@@ -777,3 +777,4 @@ Robust Activity at 2024-02-29T10:50:03: Add unit tests for core modules
 Robust Activity at 2024-02-29T17:58:05: Clean up unused variables and functions
 Robust Activity at 2024-02-29T14:38:07: Fix bug in loss function calculation
 Robust Activity at 2024-02-29T16:17:18: Add support for transformer-based models
+Robust Activity at 2024-03-01T11:38:53: Add support for multi-GPU training
