@@ -813,3 +813,4 @@ Robust Activity at 2024-03-20T10:43:57: Initial prototype for feature extraction
 Robust Activity at 2024-03-21T15:03:05: Add support for multi-GPU training
 Robust Activity at 2024-03-21T18:47:06: Improve documentation for API endpoints
 Robust Activity at 2024-03-21T16:57:51: Enhance logging for debugging production issues
+Robust Activity at 2024-03-22T15:27:39: Benchmark inference latency across devices
