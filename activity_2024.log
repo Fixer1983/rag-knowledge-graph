@@ -231,3 +231,4 @@
 2024 Activity at 2024-03-27T15:26:14: Fix potential race condition in the data pipeline
 2024 Activity at 2024-03-27T16:20:28: Benchmark inference latency across multiple devices
 2024 Activity at 2024-03-27T15:21:02: Add support for transformer-based models in inference
+2024 Activity at 2024-03-27T14:09:26: Update README with latest performance benchmarks
