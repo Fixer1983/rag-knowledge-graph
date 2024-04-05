@@ -833,3 +833,4 @@ Robust Activity at 2024-04-02T13:39:33: Enhance logging for debugging production
 Robust Activity at 2024-04-03T18:36:40: Add unit tests for core modules
 Robust Activity at 2024-04-03T11:33:09: Add support for multi-GPU training
 Robust Activity at 2024-04-05T18:22:17: Implement early stopping in training loop
+Robust Activity at 2024-04-05T17:05:09: Clean up unused variables and functions
