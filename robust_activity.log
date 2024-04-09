@@ -843,3 +843,4 @@ Robust Activity at 2024-04-08T16:39:40: Optimize GPU memory allocation
 Robust Activity at 2024-04-08T12:00:13: Address code review feedback
 Robust Activity at 2024-04-09T16:22:25: Improve model serialization and loading
 Robust Activity at 2024-04-09T14:45:32: Add support for multi-GPU training
+Robust Activity at 2024-04-09T13:50:29: Benchmark inference latency across devices
