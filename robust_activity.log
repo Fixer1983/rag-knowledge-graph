@@ -870,3 +870,4 @@ Robust Activity at 2024-04-24T16:29:59: Update README with new performance metri
 Robust Activity at 2024-04-24T18:58:59: Benchmark inference latency across devices
 Robust Activity at 2024-04-24T18:30:29: Clean up unused variables and functions
 Robust Activity at 2024-04-24T16:09:56: Improve documentation for API endpoints
+Robust Activity at 2024-04-24T15:05:01: Improve model serialization and loading
