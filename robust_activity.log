@@ -920,3 +920,4 @@ Robust Activity at 2024-05-15T14:18:24: Add unit tests for core modules
 Robust Activity at 2024-05-15T12:51:26: Fix race condition in data pipeline
 Robust Activity at 2024-05-15T16:27:07: Fix bug in loss function calculation
 Robust Activity at 2024-05-16T16:57:00: Fix bug in loss function calculation
+Robust Activity at 2024-05-16T13:19:40: Add support for transformer-based models
