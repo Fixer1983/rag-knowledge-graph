@@ -922,3 +922,4 @@ Robust Activity at 2024-05-15T16:27:07: Fix bug in loss function calculation
 Robust Activity at 2024-05-16T16:57:00: Fix bug in loss function calculation
 Robust Activity at 2024-05-16T13:19:40: Add support for transformer-based models
 Robust Activity at 2024-05-16T15:38:56: Benchmark inference latency across devices
+Robust Activity at 2024-05-17T14:30:12: Refactor data loader for faster training
