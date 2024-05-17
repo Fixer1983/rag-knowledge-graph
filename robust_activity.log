@@ -925,3 +925,4 @@ Robust Activity at 2024-05-16T15:38:56: Benchmark inference latency across devic
 Robust Activity at 2024-05-17T14:30:12: Refactor data loader for faster training
 Robust Activity at 2024-05-17T13:12:52: Merge feature branch into main
 Robust Activity at 2024-05-17T18:05:32: Address code review feedback
+Robust Activity at 2024-05-17T14:36:23: Add unit tests for core modules
