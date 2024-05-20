@@ -929,3 +929,4 @@ Robust Activity at 2024-05-17T14:36:23: Add unit tests for core modules
 Robust Activity at 2024-05-17T14:46:27: Sync with upstream repository changes
 Robust Activity at 2024-05-17T15:39:53: Fix race condition in data pipeline
 Robust Activity at 2024-05-20T15:33:19: Update README with new performance metrics
+Robust Activity at 2024-05-20T17:16:08: Add support for transformer-based models
