@@ -973,3 +973,4 @@ Robust Activity at 2024-06-03T15:27:11: Add support for transformer-based models
 Robust Activity at 2024-06-04T12:43:29: Improve model serialization and loading
 Robust Activity at 2024-06-04T12:19:16: Initial prototype for feature extraction
 Robust Activity at 2024-06-04T13:22:56: Refactor data loader for faster training
+Robust Activity at 2024-06-04T12:03:59: Add unit tests for core modules
