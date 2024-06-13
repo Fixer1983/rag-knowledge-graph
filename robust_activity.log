@@ -992,3 +992,4 @@ Robust Activity at 2024-06-12T17:16:36: Address code review feedback
 Robust Activity at 2024-06-12T15:04:39: Initial prototype for feature extraction
 Robust Activity at 2024-06-12T14:39:57: Optimize GPU memory allocation
 Robust Activity at 2024-06-13T14:13:28: Implement early stopping in training loop
+Robust Activity at 2024-06-13T13:37:52: Fix bug in loss function calculation
