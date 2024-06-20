@@ -1006,3 +1006,4 @@ Robust Activity at 2024-06-20T16:52:02: Enhance logging for debugging production
 Robust Activity at 2024-06-20T17:52:00: Merge feature branch into main
 Robust Activity at 2024-06-20T14:29:15: Improve documentation for API endpoints
 Robust Activity at 2024-06-20T17:06:46: Optimize GPU memory allocation
+Robust Activity at 2024-06-20T17:31:00: Add unit tests for core modules
