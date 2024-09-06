@@ -1139,3 +1139,4 @@ Robust Activity at 2024-09-05T14:44:50: Fix bug in loss function calculation
 Robust Activity at 2024-09-06T17:02:59: Implement early stopping in training loop
 Robust Activity at 2024-09-06T13:42:50: Add support for transformer-based models
 Robust Activity at 2024-09-06T15:59:51: Improve model serialization and loading
+Robust Activity at 2024-09-06T14:54:30: Update README with new performance metrics
