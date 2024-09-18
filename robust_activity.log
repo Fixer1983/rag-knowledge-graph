@@ -1161,3 +1161,4 @@ Robust Activity at 2024-09-16T18:03:28: Update README with new performance metri
 Robust Activity at 2024-09-17T12:31:49: Improve model serialization and loading
 Robust Activity at 2024-09-17T13:04:41: Enhance logging for debugging production issues
 Robust Activity at 2024-09-18T12:16:09: Improve model serialization and loading
+Robust Activity at 2024-09-18T15:05:20: Benchmark inference latency across devices
