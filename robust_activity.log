@@ -1206,3 +1206,4 @@ Robust Activity at 2024-10-09T09:06:30: Add unit tests for core modules
 Robust Activity at 2024-10-09T14:51:45: Improve documentation for API endpoints
 Robust Activity at 2024-10-09T14:33:06: Address code review feedback
 Robust Activity at 2024-10-09T10:08:40: Add support for transformer-based models
+Robust Activity at 2024-10-09T14:45:36: Clean up unused variables and functions
