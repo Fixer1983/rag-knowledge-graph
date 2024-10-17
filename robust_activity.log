@@ -1225,3 +1225,4 @@ Robust Activity at 2024-10-15T15:06:49: Add support for multi-GPU training
 Robust Activity at 2024-10-15T18:02:46: Update README with new performance metrics
 Robust Activity at 2024-10-16T12:32:34: Initial prototype for feature extraction
 Robust Activity at 2024-10-16T18:47:14: Fix bug in loss function calculation
+Robust Activity at 2024-10-17T16:46:24: Improve documentation for API endpoints
