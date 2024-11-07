@@ -28,3 +28,4 @@ Activity at 2024-11-07T20:49:33: Implement new feature for synthetic data genera
 Activity at 2024-11-07T10:12:01: Fix race condition in distributed mesh
 Activity at 2024-11-07T18:47:40: Address feedback from code review
 Activity at 2024-11-07T21:36:57: Update requirements.txt with latest stable versions
+Activity at 2024-11-07T18:45:59: Initial research on graph-based RAG
