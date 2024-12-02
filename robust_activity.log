@@ -1295,3 +1295,4 @@ Robust Activity at 2024-11-28T14:20:52: Optimize GPU memory allocation
 Robust Activity at 2024-12-02T11:55:35: Refactor data loader for faster training
 Robust Activity at 2024-12-02T09:09:27: Implement early stopping in training loop
 Robust Activity at 2024-12-02T18:14:13: Add support for transformer-based models
+Robust Activity at 2024-12-02T09:32:57: Add support for transformer-based models
