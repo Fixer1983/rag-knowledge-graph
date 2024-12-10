@@ -1305,3 +1305,4 @@ Robust Activity at 2024-12-06T14:17:20: Fix race condition in data pipeline
 Robust Activity at 2024-12-06T11:23:30: Update README with new performance metrics
 Robust Activity at 2024-12-06T15:16:13: Optimize GPU memory allocation
 Robust Activity at 2024-12-10T11:34:26: Update README with new performance metrics
+Robust Activity at 2024-12-10T16:32:38: Add unit tests for core modules
