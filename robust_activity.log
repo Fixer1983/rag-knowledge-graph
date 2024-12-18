@@ -1323,3 +1323,4 @@ Robust Activity at 2024-12-17T18:14:42: Clean up unused variables and functions
 Robust Activity at 2024-12-17T09:47:10: Optimize GPU memory allocation
 Robust Activity at 2024-12-17T18:04:49: Address code review feedback
 Robust Activity at 2024-12-18T13:00:34: Add support for transformer-based models
+Robust Activity at 2024-12-18T13:56:02: Fix bug in loss function calculation
