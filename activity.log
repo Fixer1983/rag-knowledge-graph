@@ -321,3 +321,4 @@ Activity at 2025-01-14T12:34:07: Optimize memory usage in LLM deployment
 Activity at 2025-01-14T12:07:29: Optimize inference latency in edge modules
 Activity at 2025-01-14T21:59:04: Optimize inference latency in edge modules
 Activity at 2025-01-14T16:18:50: Optimize inference latency in edge modules
+Activity at 2025-01-15T14:34:20: Add unit tests for neural optimizer
