@@ -331,3 +331,4 @@ Activity at 2025-01-21T12:23:27: Improve logging and monitoring in production
 Activity at 2025-01-21T20:43:21: Prototype new attention mechanism
 Activity at 2025-01-21T16:42:52: Update requirements.txt with latest stable versions
 Activity at 2025-01-21T11:10:48: Refactor core ML pipeline for better scalability
+Activity at 2025-01-27T20:42:16: Initial research on graph-based RAG
