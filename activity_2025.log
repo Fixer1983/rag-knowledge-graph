@@ -77,3 +77,4 @@
 2025 Activity at 2025-02-03T18:14:26: Fix bug in backpropagation for custom layers
 2025 Activity at 2025-02-03T10:20:51: Fix bug in backpropagation for custom layers
 2025 Activity at 2025-02-04T10:04:20: Merge stable feature branch into main
+2025 Activity at 2025-02-04T19:27:04: Clean up legacy code and improve modularity
