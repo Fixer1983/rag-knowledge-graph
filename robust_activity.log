@@ -1442,3 +1442,4 @@ Robust Activity at 2025-03-11T16:16:02: Optimize neural network architecture
 Robust Activity at 2025-03-12T09:39:12: Address code review feedback
 Robust Activity at 2025-03-12T12:43:57: Refactor data loader for faster training
 Robust Activity at 2025-03-17T11:09:49: Update README with new performance metrics
+Robust Activity at 2025-03-17T09:10:48: Add support for transformer-based models
