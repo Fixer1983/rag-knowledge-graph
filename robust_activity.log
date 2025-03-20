@@ -1448,3 +1448,4 @@ Robust Activity at 2025-03-18T14:28:49: Sync with upstream repository changes
 Robust Activity at 2025-03-20T13:37:11: Optimize GPU memory allocation
 Robust Activity at 2025-03-20T13:25:45: Fix bug in loss function calculation
 Robust Activity at 2025-03-20T12:06:29: Optimize GPU memory allocation
+Robust Activity at 2025-03-20T14:21:51: Add unit tests for core modules
