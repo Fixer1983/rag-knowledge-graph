@@ -1502,3 +1502,4 @@ Robust Activity at 2025-04-17T18:18:16: Fix race condition in data pipeline
 Robust Activity at 2025-04-17T12:11:33: Update README with new performance metrics
 Robust Activity at 2025-04-17T13:00:28: Update dependencies to latest stable versions
 Robust Activity at 2025-04-17T15:35:13: Fix bug in loss function calculation
+Robust Activity at 2025-04-18T15:39:51: Improve documentation for API endpoints
