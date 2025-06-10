@@ -1611,3 +1611,4 @@ Robust Activity at 2025-06-09T16:23:30: Benchmark inference latency across devic
 Robust Activity at 2025-06-09T18:12:54: Optimize GPU memory allocation
 Robust Activity at 2025-06-09T10:59:20: Update README with new performance metrics
 Robust Activity at 2025-06-10T14:20:50: Clean up unused variables and functions
+Robust Activity at 2025-06-10T16:07:04: Benchmark inference latency across devices
