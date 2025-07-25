@@ -1684,3 +1684,4 @@ Robust Activity at 2025-07-18T12:32:42: Benchmark inference latency across devic
 Robust Activity at 2025-07-18T18:12:18: Update README with new performance metrics
 Robust Activity at 2025-07-23T13:03:28: Enhance logging for debugging production issues
 Robust Activity at 2025-07-23T12:41:18: Benchmark inference latency across devices
+Robust Activity at 2025-07-25T14:08:09: Add unit tests for core modules
