@@ -1894,3 +1894,4 @@ Robust Activity at 2025-11-17T18:36:29: Merge feature branch into main
 Robust Activity at 2025-11-17T10:29:00: Update README with new performance metrics
 Robust Activity at 2025-11-17T15:31:17: Fix bug in loss function calculation
 Robust Activity at 2025-11-17T09:52:24: Add support for transformer-based models
+Robust Activity at 2025-11-17T15:50:33: Clean up unused variables and functions
