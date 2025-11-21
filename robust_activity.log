@@ -1906,3 +1906,4 @@ Robust Activity at 2025-11-20T15:36:17: Improve model serialization and loading
 Robust Activity at 2025-11-20T17:11:28: Improve model serialization and loading
 Robust Activity at 2025-11-20T13:55:16: Benchmark inference latency across devices
 Robust Activity at 2025-11-20T13:36:12: Enhance logging for debugging production issues
+Robust Activity at 2025-11-21T12:44:40: Add unit tests for core modules
