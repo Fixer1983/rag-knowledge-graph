@@ -1912,3 +1912,4 @@ Robust Activity at 2025-11-21T11:21:14: Refactor data loader for faster training
 Robust Activity at 2025-11-21T17:48:23: Merge feature branch into main
 Robust Activity at 2025-11-21T11:16:22: Implement early stopping in training loop
 Robust Activity at 2025-11-24T17:54:57: Add support for transformer-based models
+Robust Activity at 2025-11-24T12:08:48: Add unit tests for core modules
