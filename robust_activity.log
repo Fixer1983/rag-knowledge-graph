@@ -1917,3 +1917,4 @@ Robust Activity at 2025-11-24T14:22:18: Merge feature branch into main
 Robust Activity at 2025-11-24T09:28:16: Improve model serialization and loading
 Robust Activity at 2025-11-24T18:26:43: Benchmark inference latency across devices
 Robust Activity at 2025-11-26T10:52:16: Refactor data loader for faster training
+Robust Activity at 2025-11-26T18:50:38: Optimize GPU memory allocation
