@@ -1944,3 +1944,4 @@ Robust Activity at 2025-12-08T17:16:10: Address code review feedback
 Robust Activity at 2025-12-08T14:27:04: Clean up unused variables and functions
 Robust Activity at 2025-12-08T18:59:43: Update README with new performance metrics
 Robust Activity at 2025-12-10T11:12:44: Benchmark inference latency across devices
+Robust Activity at 2025-12-10T14:24:57: Add unit tests for core modules
