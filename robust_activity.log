@@ -1953,3 +1953,4 @@ Robust Activity at 2025-12-12T13:06:46: Fix bug in loss function calculation
 Robust Activity at 2025-12-12T18:00:59: Merge feature branch into main
 Robust Activity at 2025-12-12T14:33:50: Implement early stopping in training loop
 Robust Activity at 2025-12-12T10:46:15: Update dependencies to latest stable versions
+Robust Activity at 2025-12-15T11:37:19: Add unit tests for core modules
