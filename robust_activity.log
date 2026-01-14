@@ -2001,3 +2001,4 @@ Robust Activity at 2026-01-08T17:18:13: Merge feature branch into main
 Robust Activity at 2026-01-08T18:37:55: Clean up unused variables and functions
 Robust Activity at 2026-01-08T15:39:34: Implement early stopping in training loop
 Robust Activity at 2026-01-08T10:05:26: Fix bug in loss function calculation
+Robust Activity at 2026-01-14T16:31:24: Benchmark inference latency across devices
