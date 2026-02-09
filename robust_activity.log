@@ -2040,3 +2040,4 @@ Robust Activity at 2026-02-05T14:07:48: Add support for transformer-based models
 Robust Activity at 2026-02-05T09:34:15: Implement early stopping in training loop
 Robust Activity at 2026-02-05T14:59:51: Merge feature branch into main
 Robust Activity at 2026-02-05T10:49:56: Clean up unused variables and functions
+Robust Activity at 2026-02-09T11:46:04: Add unit tests for core modules
