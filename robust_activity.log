@@ -2053,3 +2053,4 @@ Robust Activity at 2026-02-16T13:14:55: Clean up unused variables and functions
 Robust Activity at 2026-02-16T16:30:49: Merge feature branch into main
 Robust Activity at 2026-02-16T10:10:43: Address code review feedback
 Robust Activity at 2026-02-16T14:41:47: Benchmark inference latency across devices
+Robust Activity at 2026-02-18T12:09:04: Add support for transformer-based models
