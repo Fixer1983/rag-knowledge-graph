@@ -2075,3 +2075,4 @@ Robust Activity at 2026-03-03T12:48:46: Optimize GPU memory allocation
 Robust Activity at 2026-03-03T11:48:52: Update README with new performance metrics
 Robust Activity at 2026-03-05T11:31:05: Update README with new performance metrics
 Robust Activity at 2026-03-05T13:22:00: Improve documentation for API endpoints
+Robust Activity at 2026-03-05T14:03:40: Benchmark inference latency across devices
